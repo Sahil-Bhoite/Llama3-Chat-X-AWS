@@ -1,16 +1,5 @@
 # Llama3 chat 💬❄️
 
-[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
-[![Snowflake](https://img.shields.io/badge/-Snowflake-29BFFF?style=flat-square&logo=snowflake&logoColor=white)](https://www.snowflake.com/en/)
-[![Supabase](https://img.shields.io/badge/-Supabase-00C04A?style=flat-square&logo=supabase&logoColor=white)](https://www.supabase.io/)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Langchain](https://img.shields.io/badge/-Langchain-gray?style=flat-square)](https://www.langchain.com/)
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama3chat.streamlit.app/)
-
-![156shots_so](https://github.com/kaarthik108/snowChat/assets/53030784/7538d25b-a2d4-4a2c-9601-fb4c7db3c0b6)
-
 **Llama3 chat** is an intuitive and user-friendly application that allows users to interact with their Snowflake data using natural language queries. Type in your questions or requests, and Llama3 chat will generate the appropriate SQL query and return the data you need. No more complex SQL queries or digging through tables - Llama3 chat makes it easy to access your data! By bringing data one step closer, Llama3 chat empowers users to make data-driven decisions faster and more efficiently, reducing the barriers between users and the insights they seek.
 
 ## Supported LLM's
@@ -19,9 +8,6 @@
 - CodeLlama-70B
 - Mistral Medium
 
-#
-
-https://github.com/kaarthik108/snowChat/assets/53030784/24105e23-69d3-4676-b6d6-d8157dd1580a
 
 #
 
@@ -36,7 +22,7 @@ https://github.com/kaarthik108/snowChat/assets/53030784/24105e23-69d3-4676-b6d6-
 ## 🛠️ Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/llama3chat.git
+https://github.com/SahilBoite/Llama3-Chat-X-AWS
 
 2. Install the required packages:
    cd llama3chat
@@ -59,9 +45,6 @@ https://github.com/kaarthik108/snowChat/assets/53030784/24105e23-69d3-4676-b6d6-
 2. **Voice Integration**: Implement voice recognition and text-to-speech functionality to make the chatbot more interactive and user-friendly.
 3. **Advanced Analytics**: Integrate with popular data visualization libraries like Plotly or Matplotlib to generate interactive visualizations based on the user's queries (AutoGPT).
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kaarthik108/snowChat&type=Date)]
 
 ## 🤝 Contributing
 
@@ -69,4 +52,4 @@ Feel free to contribute to this project by submitting a pull request or opening 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+
